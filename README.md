@@ -1,4 +1,3 @@
-# libreria_perfect_money
 Libreria Perfect Money
 ===============
 libreria para el uso de la api de perfect money <br>
