@@ -7,6 +7,8 @@ Herramientas usadas
 ===================
 - PHP
 - PHP POO
+
+Mas Detalles...
 ===================
 Por el momento estaremos mostrando el funcionamiento de esta herramienta en nuestra pagina web.<br>
 http://goo.gl/mfOUG6<br>
